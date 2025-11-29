@@ -1,0 +1,6 @@
+{
+  "_base": "https://raw.githubusercontent.com/andre-shart/samples/main/",
+  "the wire": ["the_wire_if_i_hear_the_music.wav","the_wire_youre_gonna_look_out_for_me.wav"],
+  "penguins": ["go_crazy.wav", "insanity.wav"],
+  "synths": ["cyberpunk_f_minor.wav"]
+}
